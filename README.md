@@ -32,6 +32,8 @@ I am a full stack web developer that enjoys working on backend API's and complex
 - Discord Bot Development
 - API Development
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=jess-daniel&show_icons=true&theme=cobalt&hide=stars,issues)](https://github.com/jess-daniel/github-readme-stats)
+
 <!--
 **jess-daniel/jess-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
