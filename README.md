@@ -7,6 +7,7 @@ I am a full stack web developer that enjoys working on backend API's and complex
 ## 💻 Projects
 
 - [Status Check](https://status-check-fe.vercel.app/)
+- [React Countries](https://react-countries.vercel.app/)
 
 ## 💡 Skills
 
