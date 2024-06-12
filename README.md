@@ -6,7 +6,7 @@ Hi 👋 My name is Jess Daniel
 
 I am a solutions-focused software engineer that is interested in creating software that solves real-world problems and brings value to users.
 
-* 🌍  I'm based in Valdosta, GA
+* 🌍  I'm based in Jacksonville, FL
 * 🖥️  See my portfolio at [https://www.michaeljdaniel.com](http://michaeljdaniel.com)
 * 🤝  I'm open to collaborating on interesting projects
 
